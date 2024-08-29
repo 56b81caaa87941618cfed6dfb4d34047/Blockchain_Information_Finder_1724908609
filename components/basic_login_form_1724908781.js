@@ -22,6 +22,11 @@
           <div class="text-center">
             <button class="bg-red-500 hover:bg-red-400 active:bg-yellow-500 text-white font-medium text-sm p-3 rounded-lg">Forgot password?</button>
           </div>
+          <div class="text-center mt-4">
+            <button class="bg-blue-500 hover:bg-blue-400 active:bg-blue-600 text-white font-medium text-sm px-4 py-2 rounded-lg shadow-md">
+              Hello World
+            </button>
+          </div>
         </form>
       </div>
     </div>
