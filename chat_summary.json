@@ -18,5 +18,11 @@
         "content": "Sure, I'll add a sidebar with those navlinks now.",
         "timestamp": "29082024051826",
         "message_id": "guest29082024051824"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the sidebar: modern and sleek or traditional and structured?\", \"option1\": \"Modern and sleek\", \"option2\": \"Traditional and structured\"}, {\"question 2\": \"Would you like the sidebar to be fixed on the left side of the screen or collapsible?\", \"option1\": \"Fixed on the left side\", \"option2\": \"Collapsible\"}], \"input_token_count\": 277, \"output_token_count\": 93, \"time_taken\": \"0:00:01.095332\"}",
+        "timestamp": "29082024051828",
+        "message_id": "guest29082024051824"
     }
 ]
