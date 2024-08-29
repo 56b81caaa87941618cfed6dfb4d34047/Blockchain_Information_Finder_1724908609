@@ -1,12 +1,12 @@
 <template>
-  <nav class="fixed top-0 left-0 w-fit h-full bg-gray-100 space-y-8 sm:w-80 pt-10 text-black z-20">
+  <nav class="fixed top-0 left-0 w-fit h-full bg-purple-900 bg-opacity-30 backdrop-filter backdrop-blur-lg space-y-8 sm:w-80 pt-10 text-white z-20 shadow-lg rounded-r-2xl">
     <div class="flex flex-col h-full">
       <div class="flex-1 flex flex-col h-full overflow-auto">
         <ul class="px-4 text-sm font-medium flex-1">
           <template v-for="(item, idx) in navigation" :key="idx">
             <li>
-              <a :href="item.href" class="flex items-center gap-x-2 text-white-600 p-5 rounded-lg hover:bg-black hover:text-white active:bg-gray-100 w-fit duration-150">
-                <div class="text-white-500" v-html="item.icon"></div>
+              <a :href="item.href" class="flex items-center gap-x-2 text-pink-200 p-5 rounded-lg hover:bg-purple-700 hover:bg-opacity-50 hover:text-white active:bg-purple-800 w-fit duration-150">
+                <div class="text-pink-300" v-html="item.icon"></div>
                 <span> {{ item.name }} </span>
               </a>
             </li>
@@ -16,18 +16,18 @@
           <ul class="px-4 pb-4 text-sm font-medium">
             <template v-for="(item, idx) in navsFooter" :key="idx">
               <li>
-                <a :href="item.href" class="flex items-center gap-x-2 text-white-600 p-2 rounded-lg hover:bg-black hover:text-white active:bg-gray-100 w-fit duration-150">
-                  <div class="text-white-500" v-html="item.icon"></div>
+                <a :href="item.href" class="flex items-center gap-x-2 text-pink-200 p-2 rounded-lg hover:bg-purple-700 hover:bg-opacity-50 hover:text-white active:bg-purple-800 w-fit duration-150">
+                  <div class="text-pink-300" v-html="item.icon"></div>
                   <span class="p-5"> {{ item.name }}</span>
                 </a>
               </li>
             </template>
           </ul>
-          <div class="py-4 px-4 w-fit border-t border-black">
+          <div class="py-4 px-4 w-fit border-t border-purple-600">
             <div class="flex items-center gap-x-4">
               <div>
-                <span class="block text-white-700 text-sm font-semibold">Discover Blockchain Insights</span>
-                <a href="javascript:void(0)" class="block mt-px text-white-600 text-xs">Stay ahead of the curve with real-time blockchain data</a>
+                <span class="block text-pink-100 text-sm font-semibold">Discover Blockchain Insights</span>
+                <a href="javascript:void(0)" class="block mt-px text-pink-200 text-xs hover:text-white">Stay ahead of the curve with real-time blockchain data</a>
               </div>
             </div>
           </div>
