@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contat",
+        "message_id": "guest29082024051824",
+        "timestamp": "29082024051826",
+        "component_file_name": "simple_footer_component_1724908691",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
