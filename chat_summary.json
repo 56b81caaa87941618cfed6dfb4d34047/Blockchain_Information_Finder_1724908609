@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed in the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"In the settings menu\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a message on the screen\", \"option2\": \"Redirect to another page or feature of the app\"}], \"input_token_count\": 272, \"output_token_count\": 101, \"time_taken\": \"0:00:01.267847\"}",
         "timestamp": "29082024052001",
         "message_id": "guest29082024051957"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Include a tooltip on the button explaining its purpose\", \"checked\": false}, {\"feature\": \"Style the button with a unique color scheme\", \"checked\": false}, {\"feature\": \"Make the button animated on hover\", \"checked\": false}, {\"feature\": \"Add a confirmation alert when the button is clicked\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 101, \"time_taken\": \"0:00:01.795583\"}",
+        "timestamp": "29082024052002",
+        "message_id": "guest29082024051957"
     }
 ]
