@@ -21,47 +21,47 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <ul id="desktop-menu-links" class="flex grow justify-center flex-wrap items-center">
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_1-link"
+                id="Discover-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_1.html"
+                href="Discover.html"
               >
-                HEADER_NAVBAR_TEXT_1
+                Discover
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_2-link"
+                id="Trends-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_2.html"
+                href="Trends.html"
               >
-                HEADER_NAVBAR_TEXT_2
+                Trends
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_3-link"
+                id="Projects-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_3.html"
+                href="Projects.html"
               >
-                HEADER_NAVBAR_TEXT_3
+                Projects
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_4-link"
+                id="Learn-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_4.html"
+                href="Learn.html"
               >
-                HEADER_NAVBAR_TEXT_4
+                Learn
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_5-link"
+                id="Connect-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_5.html"
+                href="Connect.html"
               >
-                HEADER_NAVBAR_TEXT_5
+                Connect
               </a>
             </li>
           </ul>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_1-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_1.html">HEADER_NAVBAR_TEXT_1</a>
+                <a id="mobile-Discover-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Discover.html">Discover</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_2-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_2.html">HEADER_NAVBAR_TEXT_2</a>
+                <a id="mobile-Trends-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Trends.html">Trends</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_3-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_3.html">HEADER_NAVBAR_TEXT_3</a>
+                <a id="mobile-Projects-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Projects.html">Projects</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_4-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_4.html">HEADER_NAVBAR_TEXT_4</a>
+                <a id="mobile-Learn-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Learn.html">Learn</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_5-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_5.html">HEADER_NAVBAR_TEXT_5</a>
+                <a id="mobile-Connect-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Connect.html">Connect</a>
               </li>
             </ul>
           </nav>
